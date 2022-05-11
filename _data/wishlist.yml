@@ -1,0 +1,60 @@
+- id: 1
+  title: Main List
+  items:
+  - title: Frankfurter Brett Basic Bamboo
+    what: cutting board
+    notes: Not just a cutting board.
+    url: https://frankfurter-brett.com/collections/basic/products/basic-bamboo-steel?variant=31185313628195
+    tags:
+    - kitchen
+  - title: The Returners
+    what: poster
+    url: https://www.fangamer.com/products/the-returners
+    tags:
+    - posters
+  - title: World of Warcraft Collector's Edition
+    notes: Hard to find unopened and not sold by a scammer.
+  - title: Square Enix Chrono Trigger Formation Arts Trading Figures
+    tags:
+    - figurines
+  - title: Organic Tezuka Moderno Labo Unico Figure
+    tags:
+    - figurines
+  - title: McFarlane Toys Series 1 Action Figure Akira Tetsuo
+    tags:
+    - figurines
+  - title: Good Smile Metroid Other M Samus Arun Zero Suit PVC Figure
+    tags:
+    - figurines
+  - title: Takaratomy EarthBound Stand Figure (5-Piece)
+    tags:
+    - figurines
+  - title: Mezco Toyz 6in Earthworm Jim Action Figure
+    tags:
+    - figurines
+  - title: Bayonetta amiibo (Player 1)
+    tags:
+    - figurines
+  - title: Dark Samus amiibo
+    tags:
+    - figurines
+  - title: Ivysaur amiibo
+    tags:
+    - figurines
+  - title: Squirtle amiibo
+    tags:
+    - figurines
+  - title: Corrin amiibo
+    tags:
+    - figurines
+  - title: Koopa Troopa amiibo
+    tags:
+    - figurines
+  - title: Goomba amiibo
+    tags:
+    - figurines
+- id: 0
+  title: External Lists
+  items:
+  - title: Steam Wishlist
+    url: https://store.steampowered.com/wishlist/id/radsectors/#sort=price&discount_50=1&price_1=1&price_2=1&type=Game

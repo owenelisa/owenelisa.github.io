@@ -1,0 +1,25 @@
+<div id="content" class="site-content">
+  <div id="primary" class="content-area">
+    <main id="main" class="site-main" role="main">
+
+      <article id="post-2" class="post-2 page type-page status-publish {% if page.image %}has-post-thumbnail{% endif %} hentry">
+
+      {% if page.image %}
+        <div class="post-thumbnail">
+          <img src="{{ page.image }}" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" />
+        </div><!-- .post-thumbnail -->
+      {% endif %}
+
+        <header class="entry-header">
+          <h1 class="entry-title">{% if page.headline %} {{ page.headline }} {% else %} {{ page.title }} {% endif %}</h1>
+        </header><!-- .entry-header -->
+
+        <div class="entry-content">
+          {{ content }}
+        </div><!-- .entry-content -->
+
+      </article><!-- #post-## -->
+
+    </main><!-- .site-main -->
+  </div><!-- .content-area -->
+</div><!-- .site-content -->

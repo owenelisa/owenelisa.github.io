@@ -1,0 +1,58 @@
+.widget {
+  color: #707070;
+  color: rgba(51, 51, 51, 0.7);
+  -webkit-hyphens: auto;
+  -moz-hyphens: auto;
+  -ms-hyphens: auto;
+  hyphens: auto;
+  margin: 0 auto 3%;
+  width: 100%;
+  word-wrap: break-word;
+}
+
+.widget-title {
+  color: #333;
+  font-family: "Noto Sans", sans-serif;
+  margin: 0 0 1.6em;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.widget > :last-child {
+  margin-bottom: 0;
+}
+
+.widget_links a,
+.widget_nav_menu a {
+  border: 0;
+}
+
+.widget_links a>img,
+.widget_nav_menu a>img {
+  width: 16px;
+  height: 16px;
+}
+
+.widget_links ul,
+.widget_nav_menu ul {
+  list-style: none;
+  margin: 0;
+}
+
+.widget_links li,
+.widget_nav_menu li {
+  border-top: 1px solid #eaeaea;
+  border-top: 1px solid rgba(51, 51, 51, 0.1);
+  padding: 0.7667em 0;
+}
+
+.widget_links li:first-child,
+.widget_nav_menu li:first-child {
+  border-top: 0;
+  padding-top: 0;
+}
+
+.widget_links li:last-child,
+.widget_nav_menu li:last-child {
+  padding-bottom: 0;
+}

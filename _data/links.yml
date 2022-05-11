@@ -1,0 +1,129 @@
+- id: 4
+  title: Pro/Creative
+  links:
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/radsectors-irl/
+    rel: me
+    favicon: linkedin.com
+    hide: true
+  - title: StackExchange
+    url: https://stackexchange.com/users/2257348/radsectors
+    rel: me
+    favicon: stackexchange.com
+    hide: true
+  - title: GitHub
+    url: https://github.com/radsectors
+    rel: me
+    favicon: github.com
+  - title: radsectors
+    url: https://radsectors.com
+    favicon: radsectors.com
+    hide: true
+  - title: npm
+    url: https://npmjs.com/~radsectors
+    favicon: npmjs.com
+    hide: true
+  - title: Packagist
+    url: https://packagist.org/users/radsectors
+    favicon: packagist.org
+  - title: DeviantArt
+    url: https://deviantart.com/radsectors
+    rel: me
+    favicon: deviantart.com
+- id: 2
+  title: Social Media
+  links:
+  - title: Twitter
+    url: https://twitter.com/radsectors
+    rel: me
+    favicon: twitter.com
+  - title: Instagram
+    url: https://instagram.com/radsectors
+    rel: me
+    favicon: instagram.com
+    hide: true
+  - title: Facebook
+    url: https://facebook.com/radsectors.irl
+    rel: me
+    favicon: www.facebook.com
+  - title: Reddit
+    url: https://www.reddit.com/user/radsectors
+    rel: me
+    favicon: reddit.com
+  - title: TikTok
+    url: https://www.tiktok.com/@radsectors
+    rel: me
+    favicon: tiktok.com
+  - title: Spotify
+    url: https://open.spotify.com/user/radsectors
+    rel: me
+    favicon: spotify.com
+  - title: last.fm
+    url: https://www.last.fm/user/radsectors
+    rel: me
+    favicon: www.last.fm
+  - title: Bandcamp
+    url: https://bandcamp.com/radsectors
+    rel: me
+    favicon: bandcamp.com
+  - title: YouTube
+    url: https://www.youtube.com/channel/UCthiioKvjAFY3fttfzG3o9g
+    rel: me
+    favicon: youtube.com
+    hide: true
+  - title: Duolingo
+    url: https://www.duolingo.com/radsectors
+    rel: me
+    favicon: forum.duolingo.com
+  - title: Melon
+    url: https://www.melon.com/mymusic/main/mymusicmain_list.htm?memberKey=44673771
+    favicon: melon.com
+    hide: true
+  - title: devRant
+    url: https://devrant.com/users/radsectors
+    rel: me
+    favicon: devrant.com
+    hide: true
+- id: 5
+  title: Gaming Handles
+  links:
+  - title: Discord
+    code: radsectors#2599
+    url: https://discord.com/users/298590152664809472/
+    favicon: discord.com
+  - title: Steam
+    url: https://steamcommunity.com/id/radsectors
+    rel: me
+    favicon: steampowered.com
+  - title: Twitch
+    url: https://www.twitch.tv/radsectors
+    rel: me
+    favicon: twitch.tv
+  - title: Battle.net
+    code: radsectors#1169
+    favicon: battle.net
+  - title: Switch
+    code: 0598-7099-1105
+    favicon: www.nintendo.com
+  - title: 3DS
+    code: 1160-9834-0392
+    favicon: www.nintendo.com
+- id: 7
+  title: Money
+  links:
+  - title: PayPal
+    url: https://www.paypal.me/radsectors
+    favicon: paypal.com
+  - title: Venmo
+    url: https://venmo.com/radsectors
+    favicon: www.venmo.com
+  - title: Cash
+    url: https://cash.app/$radsectors
+    favicon: cash.app
+- id: 3
+  title: Other Links
+  links:
+  - title: Dropbox Public Folder
+    url: https://www.dropbox.com/sh/mgmom80pujavv0e/AACAD2JAsOIvKxIc_vXLmKFja
+    rel: me
+    favicon: www.dropbox.com

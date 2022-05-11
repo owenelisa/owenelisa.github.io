@@ -1,0 +1,29 @@
+
+{% for linkcat in site.data.links %}
+{% unless linkcat.hide %}
+  <aside id="linkcat-{{ linkcat.id }}" class="widget widget_links">
+    <h2 class="widget-title">{{ linkcat.title }}</h2>
+    <ul class="xoxo blogroll">
+      {% for link in linkcat.links %}
+      {% unless link.hide %}
+      <li>
+        {% if link.url %}
+        <a href="{{ link.url }}" rel="{{ link.rel }}" target="_blank">
+          <img src="//www.google.com/s2/favicons?domain={{ link.favicon }}" alt="{{ link.title }}" />
+          {% if link.code %}
+          {{ link.code }}
+          {% else %}
+          {{ link.title }}
+          {% endif %}
+        </a>
+        {% else %}
+        <img src="//www.google.com/s2/favicons?domain={{ link.favicon }}" alt="{{ link.title }}" />
+        {{ link.title }}: {{ link.code }}
+        {% endif %}
+      </li>
+      {% endunless %}
+      {% endfor %}
+    </ul>
+  </aside>
+{% endunless %}
+{% endfor %}

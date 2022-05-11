@@ -1,0 +1,12 @@
+title: Owen Hester
+description: my semi-professional, mostly personal, and definitely gay af web presence
+url: "https://owen.radsectors.com"
+lang: en_US
+author: Owen Hester
+email:
+
+# Build settings
+markdown: kramdown
+
+plugins:
+  - jekyll-seo-tag

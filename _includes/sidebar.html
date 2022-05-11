@@ -1,0 +1,20 @@
+<div id="sidebar" class="sidebar">
+  <header id="masthead" class="site-header" role="banner">
+    <div class="site-branding">
+      <p class="site-title"><a href="index.html" rel="home">{{ site.title }}</a></p>
+      <p class="site-description">{{ site.description }}</p>
+      <button class="secondary-toggle">Menu and widgets</button>
+    </div><!-- .site-branding -->
+  </header><!-- .site-header -->
+
+  <div id="secondary" class="secondary">
+
+    {% include navigation.html %}
+
+    <div id="widget-area" class="widget-area" role="complementary">
+
+      {% include links.html %}
+
+    </div><!-- .widget-area -->
+  </div><!-- .secondary -->
+</div><!-- .sidebar -->

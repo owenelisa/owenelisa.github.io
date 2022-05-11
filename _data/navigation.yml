@@ -1,0 +1,9 @@
+- id: 0
+  title: Home
+  permalink: /
+- id: 1
+  title: About
+  permalink: /about
+- id: 2
+  title: Résumé
+  permalink: /resume
