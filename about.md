@@ -14,7 +14,7 @@ dating app profiles. so now all i gotta do is put a link to this page. i don’t
 
 ### 🔰 Basics
 
-- **Name** Michelle Owen Elisa Hester, but pls call me Owen
+- **Name** Owen
 - **Gender** female
 - **Sexual orientation** idk i guess technically 🍳pansexual, but honestly i’m a huge lesbian
 - **Meyers-Briggs** 🇮 🇳 🇫 🇵
@@ -28,12 +28,11 @@ dating app profiles. so now all i gotta do is put a link to this page. i don’t
 
 - introvert
 - autistic
-- night 🦉owl
-- feminist
-- recovering preacher’s kid ⛪
-- ADHD
-- anxious attachment style
+- ADHD, inattentive type
 - generalized anxiety disorder
+- anxious attachment style
+- night 🦉owl
+- recovering preacher’s kid ⛪
 
 ### 👪 Childrens
 
@@ -41,28 +40,28 @@ i am the part-time parent of two (12 and 10 years old)
 
 ### 💘 Things I could never live without
 
-- **companionship**. feeling completely comfortable as myself around you.
-- **acceptance**. sharing a similar sense of humor. no fear of harsh judgements.
-- **affirmation**. words and actions that show me that you truly give a damn about me.
-- **affection**. a lot. except when i want to be alone.
-- **solitude**. i still need space sometimes just don't be far away.
+- **companionship**. feeling completely comfortable as myself around you
+- **acceptance**. sharing a similar sense of humor. no fear of harsh judgements
+- **affirmation**. words and actions that show me that you truly give a damn about me
+- **affection**. a lot. except when i want to be alone
+- **solitude**. i still need space sometimes just don't be far away
 
 ### 💼 What I’m doing with my life
 
 - software engineer
 - learning languages [duolingo](https://www.duolingo.com/radsectors)
-- i collect some things. not like a crazy completionist collector. more of a stingy and selective one. mostly video game-related stuff and comic books.
+- i collect some things. not like a crazy completionist collector. more of a stingy and selective one. mostly video game-related stuff and comic books
 - still trying to figure out how to be an adult
 
 ### 💯 I’m really good at
 
 - **flirting** ask my friends
-- **computers** y’know how “Donatello does machines?” well, Owen does computers.
-- **humor** laughing at my own jokes. talking to myself. coming up with obscure wordplay jokes that i can’t actually use because they take more time to explain than to deliver.
+- **computers** y’know how “Donatello does machines?” well, Owen does computers
+- **humor** laughing at my own jokes. talking to myself. coming up with obscure wordplay jokes that i can’t actually use because they take more time to explain than to deliver
 
 ### 🤔 I spend a lot of time thinking about…
 
-- trans rights, workers rights
+- trans rights, workers rights, human rights
 - mental health
 - what i can do to enjoy life more and get more out of it?
 - what language should i study next?
@@ -81,18 +80,19 @@ i can enjoy nearly anything if the mood is right… but here are a few of my mor
 - [she](http://www.shemusic.org)
 - [Akira Yamaoka](http://www.akirayamaoka.jp)
 
-And for a broad overview of my musical tastes, here’s a link to my [Last.fm profile](https://www.last.fm/user/radsectors).
+And for a more in-depth look into my musical tastes, here’s a link to my
+[Last.fm profile](https://www.last.fm/user/radsectors).
 
 ##### 🎤 K-Pop
 
 - [WJSN](https://open.spotify.com/playlist/4X9BuuUuvHOzYQ792qfAtE)
 - [GFriend](https://open.spotify.com/playlist/4AAU2YGPBVcxTcyYkkYHKW)
+- [Weki Meki](https://open.spotify.com/playlist/32RK2Iteo7TAO7DZEnyW9B)
 - [Rocket Punch](https://open.spotify.com/playlist/6cwU4nR0yS51ewCSIgj4mn)
-- [IZ*ONE](https://open.spotify.com/playlist/6wzWIzdiPYiRCTmB3xMy9t)
 - [fromis_9](https://open.spotify.com/playlist/4KbfrozzYgx9ZNuW8ogyA6)
+- [IZ*ONE](https://open.spotify.com/playlist/6wzWIzdiPYiRCTmB3xMy9t)
 - [Itzy](https://open.spotify.com/playlist/02cxoHaR8klgevR8nQtDdB)
 - [Weeekly](https://open.spotify.com/playlist/2HsXoLQR8adksRBA2s02hG)
-- [Weki Meki](https://open.spotify.com/playlist/32RK2Iteo7TAO7DZEnyW9B)
 
 #### 🎦 Movies
 
@@ -102,23 +102,24 @@ i’m mostly into sci-fi and supernatural horror, but i’ll watch nearly anythi
 - [_The Handmaiden_ (2016)](https://youtu.be/whldChqCsYk)
 - [_Noriko’s Dinner Table_ (2005)](https://youtu.be/xRmpIwJQLFw)
 - [_Let The Right One In_ (2008)](https://youtu.be/ICp4g9p_rgo)
-- [_Jackie Brown_ (1997)](https://youtu.be/HlAECQzTkfY)
+- [_Fargo_ (1996)](https://youtu.be/h2tY82z3xXU)
 - [_Alien_ (1979)](https://youtu.be/LjLamj-b0I8)
 - [_Ringu_ (1998)](https://youtu.be/JruLV_Wjkp4)
-- the first several installments of the _Ju-On_ series. yes, and especially the earliest direct-to-video ones.
+- [_Ju-On: The Curse_ (JOTC 1&2 fan edit)](https://youtu.be/uBSkdOqJmx8)
 
 #### 📺 Shows
 
-- _Demon Slayer: Kimetsu no Yaiba_
-- _Cowboy Bebop_
-- _Twin Peaks_
-- _Fullmetal Alchemist: Brotherhood_
+- _Halt and Catch Fire_ (2014)
+- _Cowboy Bebop_ (1998)
+- _Twin Peaks_ (1990)
+- _Fullmetal Alchemist: Brotherhood_ (2009)
 
 #### 🕮 Books
 
-- _Akira_
+- _Akira_ - Katsuhiro Otomo
+- _I’m Glad My Mom Died_ - Jennette McCurdy
 - _Teenage Mutant Ninja Turtles_ (2011 IDW comic series)
-- _Locke & Key_
+- _Locke & Key_ - Joe Hill
 
 #### YouTube Channels
 

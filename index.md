@@ -8,11 +8,8 @@ image: /img/home.jpg
 
 software engineer based in ‟the chicagoland area.”
 
-love tacos, period dramas, and idol girl groups.
-
-into
-[music](https://www.last.fm/user/radsectors),
+tacos, period dramas,
 [language](https://www.duolingo.com/radsectors),
-and [video games](https://steamcommunity.com/id/radsectors).
+[city pop, and idol girl groups](https://www.last.fm/user/radsectors).
 
-learn more about me [here](/about) (if you want. nobody’s forcing you.)
+learn more [about me](/about) or check out my socials in the sidebar (if you want. nobody’s forcing you.)

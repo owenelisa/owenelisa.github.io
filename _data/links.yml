@@ -38,10 +38,9 @@
     rel: me
     favicon: twitter.com
   - title: Instagram
-    url: https://instagram.com/radsectors
+    url: https://instagram.com/radsectors.jpg
     rel: me
     favicon: instagram.com
-    hide: true
   - title: Facebook
     url: https://facebook.com/radsectors.irl
     rel: me
@@ -67,7 +66,7 @@
     rel: me
     favicon: bandcamp.com
   - title: YouTube
-    url: https://www.youtube.com/channel/UCthiioKvjAFY3fttfzG3o9g
+    url: https://www.youtube.com/@radsectors
     rel: me
     favicon: youtube.com
     hide: true
