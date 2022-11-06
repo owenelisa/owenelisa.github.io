@@ -1,18 +1,13 @@
 ---
 layout: default
-title: Home
-headline: hi, i’m Owen (she/her) 👋🏻
+title: home
+headline: 👋🏻 hi, i’m michelle
 permalink: /
 image: /img/home.jpg
 ---
 
-software engineer based in ‟the chicagoland area.”
-
-love tacos, period dramas, and idol girl groups.
-
-into
-[music](https://www.last.fm/user/radsectors),
-[language](https://www.duolingo.com/radsectors),
-and [video games](https://steamcommunity.com/id/radsectors).
-
-learn more about me [here](/about) (if you want. nobody’s forcing you.)
+* 🏢 php dev based in chicago.
+* 👀 i’m interested in [language](https://www.duolingo.com/profile/radsectors), retro games/tech/software, and [idol girl groups](https://www.last.fm/user/radsectors).
+* 🌱 i’m currently learning ~~bahasa indonesia~~ mandarin chinese.
+* 💞️ i’m looking to collaborate on my early retirement. pls enquire abt sponsorship/marriage.
+* 📫 pretty much @radsectors everything, my socials are below.

@@ -150,17 +150,6 @@ textarea {
 	height: 2.5263em;
 }
 
-.secondary-toggle {
-	margin-top: -32px;
-	right: 7.6897%;
-	width: 64px;
-	height: 64px;
-}
-
-.secondary-toggle:before {
-	line-height: 64px;
-}
-
 .post-password-form label,
 .post-navigation .meta-nav,
 .comment-navigation,
@@ -841,11 +830,6 @@ video {
 .rtl .main-navigation .menu-item-has-children > a {
 	padding-right: 0;
 	padding-left: 48px;
-}
-
-.rtl .secondary-toggle {
-	right: auto;
-	left: 7.6897%;
 }
 
 .rtl .image-navigation .nav-previous,

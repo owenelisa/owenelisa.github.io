@@ -9,16 +9,15 @@
       <li>
         {% if link.url %}
         <a href="{{ link.url }}" rel="{{ link.rel }}" target="_blank">
-          <img src="//www.google.com/s2/favicons?domain={{ link.favicon }}" alt="{{ link.title }}" />
-          {% if link.code %}
-          {{ link.code }}
+        {% endif %}
+          <img src="//www.google.com/s2/favicons?domain={{ link.favicon }}" alt="{{ link.title }}" title="{{ link.title }}" />
+          {% if link.display %}
+          {{ link.display }}
           {% else %}
           {{ link.title }}
           {% endif %}
+        {% if link.url %}
         </a>
-        {% else %}
-        <img src="//www.google.com/s2/favicons?domain={{ link.favicon }}" alt="{{ link.title }}" />
-        {{ link.title }}: {{ link.code }}
         {% endif %}
       </li>
       {% endunless %}
