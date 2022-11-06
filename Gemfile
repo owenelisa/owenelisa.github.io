@@ -9,7 +9,7 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 gem "jekyll", "3.9.2"
-gem "kramdown", "2.3.2"
+gem "kramdown", "2.3.1"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
