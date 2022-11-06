@@ -2,7 +2,7 @@
   title: Pro/Creative
   links:
   - title: LinkedIn
-    url: https://www.linkedin.com/in/radsectors-irl/
+    url: https://www.linkedin.com/in/owenhester/
     rel: me
     favicon: linkedin.com
     hide: true
@@ -38,10 +38,9 @@
     rel: me
     favicon: twitter.com
   - title: Instagram
-    url: https://instagram.com/radsectors
+    url: https://instagram.com/radsectors.jpg
     rel: me
     favicon: instagram.com
-    hide: true
   - title: Facebook
     url: https://facebook.com/radsectors.irl
     rel: me
@@ -54,6 +53,10 @@
     url: https://www.tiktok.com/@radsectors
     rel: me
     favicon: tiktok.com
+  - title: Snapchat
+    url: https://www.snapchat.com/add/radsectors
+    rel: me
+    favicon: snapchat.com
   - title: Spotify
     url: https://open.spotify.com/user/radsectors
     rel: me
@@ -67,12 +70,12 @@
     rel: me
     favicon: bandcamp.com
   - title: YouTube
-    url: https://www.youtube.com/channel/UCthiioKvjAFY3fttfzG3o9g
+    url: https://www.youtube.com/@radsectors
     rel: me
     favicon: youtube.com
     hide: true
   - title: Duolingo
-    url: https://www.duolingo.com/radsectors
+    url: https://www.duolingo.com/profile/radsectors
     rel: me
     favicon: forum.duolingo.com
   - title: Melon
@@ -108,6 +111,10 @@
   - title: 3DS
     code: 1160-9834-0392
     favicon: www.nintendo.com
+  - title: Xbox
+    code: radsectors
+    url: https://account.xbox.com/en-us/profile?gamertag=radsectors
+    favicon: xbox.com
 - id: 7
   title: Money
   links:
@@ -116,7 +123,7 @@
     favicon: paypal.com
   - title: Venmo
     url: https://venmo.com/radsectors
-    favicon: www.venmo.com
+    favicon: venmo.com
   - title: Cash
     url: https://cash.app/$radsectors
     favicon: cash.app

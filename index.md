@@ -1,18 +1,15 @@
 ---
 layout: default
 title: Home
-headline: hi, i’m Owen (she/her) 👋🏻
+headline: 👋🏻 hi, i’m owen (🏳️‍⚧️ she/her)
 permalink: /
 image: /img/home.jpg
 ---
 
-software engineer based in ‟the chicagoland area.”
+* 🏢 software engineer based in *the chicagoland area*
+* 👀 i’m interested in [language](https://www.duolingo.com/profile/radsectors), retro games, and [idol girl groups](https://www.last.fm/user/radsectors)
+* 🌱 i’m currently learning [bahasa indonesia](https://www.duolingo.com/enroll/id/en/Learn-Indonesian)
+* 💞️ i’m looking to collaborate on my early retirement. pls enquire abt sponsorship
+* 📫 @radsectors everything, my socials are in the sidebar
 
-love tacos, period dramas, and idol girl groups.
-
-into
-[music](https://www.last.fm/user/radsectors),
-[language](https://www.duolingo.com/radsectors),
-and [video games](https://steamcommunity.com/id/radsectors).
-
-learn more about me [here](/about) (if you want. nobody’s forcing you.)
+learn more [about me](/about)
