@@ -2,31 +2,37 @@
   title: Pro/Creative
   links:
   - title: LinkedIn
-    url: https://www.linkedin.com/in/radsectors-irl/
+    display: owenhester
+    url: https://www.linkedin.com/in/owenhester
     rel: me
     favicon: linkedin.com
     hide: true
   - title: StackExchange
+    display: radsectors
     url: https://stackexchange.com/users/2257348/radsectors
     rel: me
     favicon: stackexchange.com
     hide: true
   - title: GitHub
+    display: radsectors
     url: https://github.com/radsectors
     rel: me
     favicon: github.com
-  - title: radsectors
+  - title: radsectors website
     url: https://radsectors.com
     favicon: radsectors.com
     hide: true
   - title: npm
+    display: ~radsectors
     url: https://npmjs.com/~radsectors
     favicon: npmjs.com
     hide: true
   - title: Packagist
+    display: radsectors
     url: https://packagist.org/users/radsectors
     favicon: packagist.org
   - title: DeviantArt
+    display: radsectors
     url: https://deviantart.com/radsectors
     rel: me
     favicon: deviantart.com
@@ -34,52 +40,69 @@
   title: Social Media
   links:
   - title: Twitter
+    display: "@radsectors"
     url: https://twitter.com/radsectors
     rel: me
     favicon: twitter.com
   - title: Instagram
-    url: https://instagram.com/radsectors
+    display: radsectors.jpg
+    url: https://instagram.com/radsectors.jpg
     rel: me
     favicon: instagram.com
-    hide: true
   - title: Facebook
-    url: https://facebook.com/radsectors.irl
+    display: owenelisahester
+    url: https://facebook.com/owenelisahester
     rel: me
     favicon: www.facebook.com
-  - title: Reddit
+    hide: true
+  - title: "Reddit"
+    display: radsectors
     url: https://www.reddit.com/user/radsectors
     rel: me
     favicon: reddit.com
   - title: TikTok
+    display: "@radsectors"
     url: https://www.tiktok.com/@radsectors
     rel: me
     favicon: tiktok.com
+  - title: radsectors
+    url: https://www.snapchat.com/add/radsectors
+    rel: me
+    favicon: snapchat.com
+    hide: true
   - title: Spotify
+    display: radsectors
     url: https://open.spotify.com/user/radsectors
     rel: me
     favicon: spotify.com
   - title: last.fm
+    display: radsectors
     url: https://www.last.fm/user/radsectors
     rel: me
     favicon: www.last.fm
   - title: Bandcamp
+    display: radsectors
     url: https://bandcamp.com/radsectors
     rel: me
     favicon: bandcamp.com
   - title: YouTube
-    url: https://www.youtube.com/channel/UCthiioKvjAFY3fttfzG3o9g
+    display: "@radsectors"
+    url: https://www.youtube.com/@radsectors
     rel: me
     favicon: youtube.com
     hide: true
   - title: Duolingo
-    url: https://www.duolingo.com/radsectors
+    display: radsectors
+    url: https://www.duolingo.com/profile/radsectors
     rel: me
     favicon: forum.duolingo.com
   - title: Melon
+    display: radsectors
     url: https://www.melon.com/mymusic/main/mymusicmain_list.htm?memberKey=44673771
     favicon: melon.com
     hide: true
   - title: devRant
+    display: radsectors
     url: https://devrant.com/users/radsectors
     rel: me
     favicon: devrant.com
@@ -88,38 +111,51 @@
   title: Gaming Handles
   links:
   - title: Discord
-    code: radsectors#2599
+    display: radsectors
     url: https://discord.com/users/298590152664809472/
     favicon: discord.com
   - title: Steam
+    display: radsectors
     url: https://steamcommunity.com/id/radsectors
     rel: me
     favicon: steampowered.com
   - title: Twitch
+    display: radsectors
     url: https://www.twitch.tv/radsectors
     rel: me
     favicon: twitch.tv
   - title: Battle.net
-    code: radsectors#1169
+    display: radsectors#1169
     favicon: battle.net
   - title: Switch
-    code: 0598-7099-1105
+    display: "Switch: 0598-7099-1105"
     favicon: www.nintendo.com
   - title: 3DS
-    code: 1160-9834-0392
+    display: "3DS: 1160-9834-0392"
     favicon: www.nintendo.com
+  - title: Xbox
+    display: radsectors
+    url: https://account.xbox.com/en-us/profile?gamertag=radsectors
+    favicon: xbox.com
+  - title: PlayStation Network
+    display: radsectors-
+    url: https://psnprofiles.com/radsectors-
+    favicon: playstation.com
 - id: 7
   title: Money
   links:
-  - title: PayPal
-    url: https://www.paypal.me/radsectors
-    favicon: paypal.com
-  - title: Venmo
-    url: https://venmo.com/radsectors
-    favicon: www.venmo.com
   - title: Cash
+    display: $radsectors
     url: https://cash.app/$radsectors
     favicon: cash.app
+  - title: Venmo
+    display: radsectors
+    url: https://venmo.com/radsectors
+    favicon: venmo.com
+  - title: PayPal
+    display: radsectors
+    url: https://www.paypal.me/radsectors
+    favicon: paypal.com
 - id: 3
   title: Other Links
   links:
